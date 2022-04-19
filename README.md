@@ -46,7 +46,7 @@ This extension for StarUML(http://staruml.io) support to generate C++ code from 
 
 - converted to _Cpp Class_. (as a separate `.h` file)
 - `visibility` property to one of modifiers `public`, `protected`, `private`. If visibility is not setted, consider as `protected`.
-- all method will treated as pure virtaul.
+- all method will treated as pure virtual.
 
 ### UMLEnumeration
 
